@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
 
-        Console.WriteLine("IPT1, ACTIVITY1.");
+        Console.WriteLine("ACTIVITY IN IPT.");
 
     }
 }
